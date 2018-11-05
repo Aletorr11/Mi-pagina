@@ -8,11 +8,35 @@ body {
 
 }
 
-#mateo {
-    width: 10%;
+.mateo {
+    width: 20%;
     height: auto;
     margin: 1em;
-}   
+} 
+  
+.mateo2 {
+    width: 15.2%;
+    height: auto;
+    margin: 1em;
+}
+
+.mateo3 {
+    width: 15%;
+    height: auto;
+    margin: 1em;
+}       
+
+.mateo4 {
+    width: 16.1%;
+    height: auto;
+    margin: 1em;
+}
+
+.mateo5 {
+    width: 15%;
+    height: auto;
+    margin: 1em;
+}
 
 h1,h2 {
     font-weight: 200;
@@ -21,6 +45,7 @@ h1,h2 {
 
 h1 {
     font-size: 3.5rem;
+    font-weight: 600;
 }   
 
 h2 {
@@ -29,9 +54,9 @@ h2 {
 } 
 
 a {
-    font-weight: 200;
+    font-weight: 600;
     margin: 0.4rem;
-    color: #c9f4ec;
+    color: rgb(255, 255, 255);
     
 } 
 
@@ -39,4 +64,9 @@ hr {
     border: 0;
     border-top: 3px solid rgb(131, 73, 73);
 }
+
+footer{
+    font-weight: 200;
+    font-size: 1.5rem;
+} 
 

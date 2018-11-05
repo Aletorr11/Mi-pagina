@@ -3,11 +3,11 @@
 body {
     font-family: 'Raleway' , sans-serif;
     height: 100vh;
-    background: #333;
+    background: #333 url(Imagenes/fondo.jpg);
     color: #ccc;
 
 }
- 
+
 #mateo {
     width: 10%;
     height: auto;
@@ -25,14 +25,18 @@ h1 {
 
 h2 {
     font-size: 2rem;
+    color: #c9f4ec;
 } 
+
 a {
     font-weight: 200;
     margin: 0.4rem;
     color: #c9f4ec;
+    
 } 
 
 hr {
     border: 0;
     border-top: 3px solid rgb(131, 73, 73);
 }
+

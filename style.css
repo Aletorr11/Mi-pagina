@@ -3,7 +3,7 @@
 body {
     font-family: 'Raleway' , sans-serif;
     height: 100vh;
-    background: #333 url(Imagenes/fondo.jpg);
+    background: #333 url('Imagenes/fondo.jpg');
     color: #ccc;
 
 }
